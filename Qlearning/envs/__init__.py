@@ -1,1 +1,1 @@
-from Qlearning.envs.env import Env
+from Qlearning.envs.env_Q import FooEnv
